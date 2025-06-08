@@ -1,0 +1,29 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image-width: 21em
+  image-shape: round
+  image: "assets/img/dp2.jpeg"
+---
+
+::: {#about-block}
+## Who is working with you?
+
+Biplabendu Das, fondly called `BILLU`, obtained his Ph.D. in bioinformatics, 
+following which he did postdoctoral research at Stanford University. 
+
+Billu works as a Data Scientist / Data Engineer for two nationwide, 
+longitudinal studies aimed at understanding brain & cognitive development in 
+adolescents ([ABCD Study](https://abcdstudy.org/)) & newborn babies 
+([HBCD Study](https://hbcdstudy.org/)).
+
+## Experience
+
+1. Data Scientist/Engineer, *J. Craig Venter Institute*, Apr 2025 - present
+
+2. Data Scientist/Engineer, *UC San Diego*, Aug 2023 - Mar 2025
+
+2. Postdoctoral Researcher, *Stanford University*, May 2022 - Oct 2023
+
+::: 

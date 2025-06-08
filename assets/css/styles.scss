@@ -1,0 +1,40 @@
+/*-- scss:defaults --*/
+/*-- using abcd_bs_theme --*/
+
+@import url(https://fonts.googleapis.com/css?family=Inter:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400italic,700italic,400,700);
+
+$font-family-sans-serif: "Inter";
+$font-family-monospace: "Source Code Pro";
+
+
+$primary: #62272D;
+$secondary: #FDBF6F;
+$success: #33A02C;
+$info: #DEEBF7;
+$warning: #FF7F00;
+$danger: #E31A1C;
+
+code {
+  font-size: 0.9rem  !important;
+}
+
+
+.navbar {
+  height: 88px !important;
+  position: relative;
+  background-color: $primary !important;
+}
+
+.navbar-logo {
+  max-height: 78px !important;
+}
+
+.navbar-collapse {
+  background-color: $primary !important;
+}
+
+.menu-text {
+  font-size: 1.1rem;
+  font-weight: 500;
+}

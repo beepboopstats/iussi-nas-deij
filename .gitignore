@@ -39,11 +39,18 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
-
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Jun 8, 2025
+
+# pkgdown site
+docs/
+
+# DS_Store for mac
+**/*.DS_Store
+
+/.quarto/

@@ -1,0 +1,18 @@
+on:
+  workflow_dispatch:
+  push:
+    branches: main
+  schedule:
+  # run every day at 10:00 hours UTC
+  # 10:00 UTC = 03:00 Arizona time
+    - cron: '30 6 * * *'
+
+name: Quarto Render and Publish
+
+permissions:
+  contents: write
+
+jobs:
+  render_publish:
+    uses: biplabendu/gha-workflows/.github/workflows/render-publish-ghpages.yml@main
+    secrets: inherit

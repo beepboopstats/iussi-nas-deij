@@ -1,0 +1,49 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image-width: 15em
+  # image-shape: round
+  image: "assets/img/my_image.png"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/biplabendu
+    - icon: envelope
+      text: Email
+      href: "mailto:beepboopstats@gmail.com"  
+format:
+  html:
+    toc: false
+---
+
+::: {#about-block}
+## Your Data. Our Solutions.
+
+__We specialize in providing data-driven solutions for real-time use.__
+
+This includes building tools such as:
+
+- __websites__, for scheduling visits or monitoring your data regularly
+- __interactive dashboards__, to visualize/analyze your data in a flexible way
+- __applications__, for real-time data gathering and analyses
+- __automated data pipelines__, from gathering data to visualizing patterns
+
+We also offer the following services:
+
+- __statistical analyses__, to find patterns in data and devise interventions
+- __data visualization__, to understand the patterns in data in a simple way
+
+::: 
+
+<!-- ```{r} -->
+<!-- dttm <- Sys.time() |>  -->
+<!--   .POSIXct("MST") |>  -->
+<!--   format("%Y-%m-%d %H:%M %Z") -->
+
+<!-- today <- Sys.time() |> .POSIXct("MST") |> lubridate::as_date() -->
+<!-- ``` -->
+
+<!-- <p align = "right" style="font-size: 15px;"> -->
+<!-- Last updated on `r today` -->
+<!-- </p> -->
