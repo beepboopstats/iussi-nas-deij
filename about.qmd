@@ -2,7 +2,7 @@
 about:
   template: trestles
   id: about-block
-  image-width: 21em
+  image-width: 19em
   image-shape: round
   image: "assets/img/dp2.jpeg"
 ---

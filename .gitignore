@@ -54,3 +54,4 @@ docs/
 **/*.DS_Store
 
 /.quarto/
+assets/ssl/
