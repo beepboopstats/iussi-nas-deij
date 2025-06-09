@@ -1,5 +1,21 @@
 ---
 title: "Contact"
+format: 
+  html:
+    toc: false
 ---
 
-You can contact me at abc@zzzz.com
+You can reach us via [email](mailto:beepboopstats@gmail.com) or on [Linkedin](https://www.linkedin.com/in/biplabendu).
+
+### We offer free consulation!
+
+Let's meet to discuss your needs for a free, 30 min consultation.
+
+::: {.callout-tip collapse=true}
+# Click me to schedule an appointment.
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/beepboopstats/free-consultation?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+:::
