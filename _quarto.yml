@@ -9,7 +9,7 @@ execute:
   
 website:
   title: "BeepBoopStats"
-  # google-analytics: "UA-121215066-1"
+  google-analytics: "G-LXSX23EQ95"
   reader-mode: false
   page-footer: © Beep Boop Stats
   favicon: /assets/img/favicons/android-chrome-192x192.png
