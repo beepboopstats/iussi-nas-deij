@@ -15,7 +15,14 @@ about:
 format:
   html:
     toc: false
+    page-layout: full
 ---
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/beepboopstats/free-consultation', text: 'Book your free consultation', color: '#62272d', textColor: '#ffffff' }); }</script>
+<!-- Calendly badge widget end -->
 
 ::: {#about-block}
 ## Your Data. Our Solutions.
@@ -29,10 +36,11 @@ This includes building tools such as:
 - __applications__, for real-time data gathering and analyses
 - __automated data pipelines__, from gathering data to visualizing patterns
 
-We also offer the following services:
+Other services include:
 
 - __statistical analyses__, to find patterns in data and devise interventions
-- __data visualization__, to understand the patterns in data in a simple way
+- __data visualization__, to identify complex patterns in data in a simple way
+- __data workshops__, for hands-on training for analyses and visualizations
 
 ::: 
 

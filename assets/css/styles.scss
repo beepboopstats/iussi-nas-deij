@@ -38,3 +38,43 @@ code {
   font-size: 1.1rem;
   font-weight: 500;
 }
+
+div.quarto-about-trestles {
+  padding-top: 0.15em !important;
+  padding-bottom: 0.15em !important;
+
+  .about-entity {
+    // Always set max-width for fallback
+    max-width: 33% !important;
+    flex: 0 0 33% !important;
+
+    @media (max-width: 991.98px) {
+      max-width: 100% !important;
+      flex: 1 1 100% !important;
+    }
+  }
+}
+
+.about-link {
+  background-color: none; // Choose any solid color you like
+  color: $primary;
+  border: none !important;
+  // border-radius: 0.5em;
+  // padding: 0.5em 0.5em;
+  text-decoration: bold;
+
+  &:hover, &:focus {
+    background-color: $secondary; // Optional: darker shade on hover/focus
+    color: black;
+  }
+}
+
+.about-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; // center align horizontally
+  align-items: center;      // center align vertically if needed
+  gap: 0.25em !important;   // space between links
+  flex-wrap: wrap;          // allow wrapping if needed
+}
+

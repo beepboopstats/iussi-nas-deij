@@ -2,9 +2,13 @@
 about:
   template: trestles
   id: about-block
-  image-width: 19em
+  image-width: 15em
   image-shape: round
   image: "assets/img/dp2.jpeg"
+  links:
+    - icon: globe-americas
+      text: personal website
+      href: https://biplabendu.github.io/homepage/
 ---
 
 ::: {#about-block}
