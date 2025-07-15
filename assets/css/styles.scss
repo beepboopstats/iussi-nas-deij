@@ -78,3 +78,10 @@ div.quarto-about-trestles {
   flex-wrap: wrap;          // allow wrapping if needed
 }
 
+
+// Listings
+@media (max-width: 900px) {
+  .quarto-grid-item.card.h-100.card-left p.card-img-top {
+    display: none !important;
+  }
+}

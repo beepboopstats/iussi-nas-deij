@@ -5,7 +5,7 @@ listing:
   sort: "date desc"
   type: grid
   categories: true
-  filter-ui: [title, date]
+  filter-ui: [title]
   grid-columns: 4
   grid-item-border: true
   image-height: "200px"
