@@ -1,7 +1,7 @@
 ---
 title: "Scientific Dashboard"
 categories: [dashboard, scientific]
-image: "dashboard-scientific.png"
+image: "icon-dashboard-scientific.png"
 ---
 
 Dashboard that enables analyses of multiple, large datasets. 

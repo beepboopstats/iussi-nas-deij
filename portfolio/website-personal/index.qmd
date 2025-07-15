@@ -1,7 +1,7 @@
 ---
 title: "Personal Website"
 categories: [website]
-image: "world-wide-web.png"
+image: "icon-world-wide-web.png"
 ---
 
 Websites that fit your personal needs. 

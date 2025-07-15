@@ -1,7 +1,7 @@
 ---
 title: "Application"
 categories: [dashboard, app]
-image: "app-realtime.png"
+image: "icon-app-realtime.png"
 ---
 
 Web application to gather and analyze data in real-time.
