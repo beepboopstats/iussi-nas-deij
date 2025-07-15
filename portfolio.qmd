@@ -1,0 +1,13 @@
+---
+title: ""
+listing: 
+  contents: portfolio
+  sort: "date desc"
+  type: grid
+  categories: true
+  filter-ui: [title, date]
+  grid-columns: 4
+  grid-item-border: true
+  image-height: "200px"
+page-layout: full
+---
