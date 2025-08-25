@@ -30,7 +30,6 @@ This website is aimed to:
 - __point 1__, description of point 1
 - __point 2__, description of point 2
 - __point 3__, description of point 3
-- __point 4__, description of point 4
 
 ::: 
 
