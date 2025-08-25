@@ -4,7 +4,7 @@
     "href": "assets/contact/index.html",
     "title": "Contact",
     "section": "",
-    "text": "You can reach us via email or on Linkedin.\n\nWe offer free consulation!\nLet’s meet to discuss your needs for a free, 30 min consultation.\n\n\n\n\n\n\nClick me to schedule an appointment."
+    "text": "Current committee members include:\n\nAmy (Chair)\nKaitlin\nErika\n\nYou can reach out to the committee via email."
   },
   {
     "objectID": "index.html",
@@ -16,14 +16,14 @@
   {
     "objectID": "workshop/01-BD-r_github_websites/index.html",
     "href": "workshop/01-BD-r_github_websites/index.html",
-    "title": "Building websites using R and GitHub",
+    "title": "Building websites using R + GitHub",
     "section": "",
-    "text": "Read-along tutorial\nThe tutorial shows how to deploy a website, hosted on GitHub Pages for free, using R and Markdown.\nLink to tutorial\nTo make the process easy, I have created a dummy website that provides a template for building a professional website with two pages: a homepage and a webpage for describing your research experience. The template can be customized by renaming and repurposing the individual pages.\n\n\nVideo tutorial\n\n\nSource: Workshop hosted on Zoom by Billu in September, 2024."
+    "text": "Read-along tutorial\nThe tutorial shows how to deploy a website, hosted on GitHub Pages for free, using R and Markdown.\nLink to tutorial\nTo make the process easy, I have created a dummy website that provides a template for building a professional website with two pages: a homepage and a webpage for describing your research experience. The template can be customized by renaming and repurposing the individual pages.\n\n\nVideo tutorial\n\nSource: Workshop hosted on Zoom by Billu in September, 2024."
   },
   {
     "objectID": "workshop/02-XX_YY-name_of_workshop/index.html",
     "href": "workshop/02-XX_YY-name_of_workshop/index.html",
-    "title": "[UPCOMING] Workshop title goes here.",
+    "title": "[UPCOMING] Workshop title here.",
     "section": "",
     "text": "This sentence will be displayed as a brief description of the workshop.\nShare workshop materials here. Two options:\n\nProvide necessary links to the materials\nWork with someone to write a tutorial / provide materials directly here."
   },
@@ -32,7 +32,7 @@
     "href": "workshop.html",
     "title": "IUSSI-NAS DEIJ",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 10, 2025\n\n\n[UPCOMING] Workshop title goes here.\n\n\nAuthor One, Author Two\n\n\n\n\nSep 13, 2024\n\n\nBuilding websites using R and GitHub\n\n\nBiplabendu Das\n\n\n\n\n\nNo matching items"
+    "text": "[UPCOMING] Workshop title here.\n\n\n\n\n\n\nUpcoming\n\n\n\n\n\n\n\n\n\nOct 10, 2025\n\n\nAuthor One, Author Two\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding websites using R + GitHub\n\n\n\n\n\n\nR\n\n\nGitHub\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 13, 2024\n\n\nBiplabendu Das\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

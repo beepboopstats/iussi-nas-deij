@@ -5,17 +5,10 @@ format:
     toc: false
 ---
 
-You can reach us via [email](mailto:beepboopstats@gmail.com) or on [Linkedin](https://www.linkedin.com/in/biplabendu).
+Current committee members include:
 
-### We offer free consulation!
+1. Amy (Chair)
+2. Kaitlin
+3. Erika
 
-Let's meet to discuss your needs for a free, 30 min consultation.
-
-::: {.callout-tip collapse=true}
-# Click me to schedule an appointment.
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/beepboopstats/free-consultation?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-:::
+You can reach out to the committee via [email](mailto:iussi.nas.deij@gmail.com).

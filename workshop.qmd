@@ -3,12 +3,12 @@ title: ""
 listing: 
   contents: workshop/*/*.qmd
   sort: "date desc"
-  type: table
+  type: default
   categories: true
-  filter-ui: [title]
+  # filter-ui: [title]
   # grid-columns: 4
   # grid-item-border: true
-  image-height: "200px"
+  image-height: "100px"
   image-align: left
 page-layout: full
 ---

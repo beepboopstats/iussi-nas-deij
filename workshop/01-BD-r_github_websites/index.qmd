@@ -1,9 +1,9 @@
 ---
-title: "Building websites using R and GitHub"
+title: "Building websites using R + GitHub"
 categories: [R, GitHub, Website]
 author: Biplabendu Das
 date: 2024-09-13
-image: "author.jpeg"
+image: "author.png"
 ---
 
 ### Read-along tutorial
@@ -17,6 +17,10 @@ To make the process easy, I have created a [dummy website](https://biplabendu.gi
 
 ### Video tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r0TKAu-H2kc?si=fCPygvJjoIj1zZhS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< video 
+    https://www.youtube.com/embed/r0TKAu-H2kc?si=m8R2AFdddRkvsVlD 
+    width="560"
+    height="315"
+>}}
 
 Source: Workshop hosted on Zoom by Billu in September, 2024.

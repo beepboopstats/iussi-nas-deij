@@ -1,5 +1,5 @@
 ---
-title: "[UPCOMING] Workshop title goes here."
+title: "[UPCOMING] Workshop title here."
 categories: [Upcoming]
 author: Author One, Author Two
 date: 2025-10-10
