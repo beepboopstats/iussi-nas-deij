@@ -47,9 +47,6 @@ rsconnect/
 
 # Jun 8, 2025
 
-# pkgdown site
-docs/
-
 # DS_Store for mac
 **/*.DS_Store
 

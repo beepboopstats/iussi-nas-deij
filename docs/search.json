@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "assets/contact/index.html",
+    "href": "assets/contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can reach us via email or on Linkedin.\n\nWe offer free consulation!\nLet’s meet to discuss your needs for a free, 30 min consultation.\n\n\n\n\n\n\nClick me to schedule an appointment."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IUSSI-NAS DEIJ",
+    "section": "",
+    "text": "IUSSI-NAS website\n  \n  \n    \n     Email DEIJ committee\n  \n\n  \n  \n\nDiversity, Equity, Inclusion, and Justice committee for the IUSSI North American section.\n\nA brief introduction here Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nThis website is aimed to:\n\npoint 1, description of point 1\npoint 2, description of point 2\npoint 3, description of point 3"
+  },
+  {
+    "objectID": "workshop/01-BD-r_github_websites/index.html",
+    "href": "workshop/01-BD-r_github_websites/index.html",
+    "title": "Building websites using R and GitHub",
+    "section": "",
+    "text": "Read-along tutorial\nThe tutorial shows how to deploy a website, hosted on GitHub Pages for free, using R and Markdown.\nLink to tutorial\nTo make the process easy, I have created a dummy website that provides a template for building a professional website with two pages: a homepage and a webpage for describing your research experience. The template can be customized by renaming and repurposing the individual pages.\n\n\nVideo tutorial\n\n\nSource: Workshop hosted on Zoom by Billu in September, 2024."
+  },
+  {
+    "objectID": "workshop/02-XX_YY-name_of_workshop/index.html",
+    "href": "workshop/02-XX_YY-name_of_workshop/index.html",
+    "title": "[UPCOMING] Workshop title goes here.",
+    "section": "",
+    "text": "This sentence will be displayed as a brief description of the workshop.\nShare workshop materials here. Two options:\n\nProvide necessary links to the materials\nWork with someone to write a tutorial / provide materials directly here."
+  },
+  {
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "IUSSI-NAS DEIJ",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 10, 2025\n\n\n[UPCOMING] Workshop title goes here.\n\n\nAuthor One, Author Two\n\n\n\n\nSep 13, 2024\n\n\nBuilding websites using R and GitHub\n\n\nBiplabendu Das\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "IUSSI-NAS DEIJ",
+    "section": "",
+    "text": "personal website\n  \n\n  \n  \n\n\nBrief introduction highlighting someone’s achievement or contribution. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. .\n\n\n\n\n(ABCD Study): understanding brain & cognitive development in adolescents.\n(HBCD Study): understanding brain & cognitive development in newborn babies.\nOther resources here."
+  },
+  {
+    "objectID": "about.html#have-you-met-this-amazing-person",
+    "href": "about.html#have-you-met-this-amazing-person",
+    "title": "IUSSI-NAS DEIJ",
+    "section": "",
+    "text": "Brief introduction highlighting someone’s achievement or contribution. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ."
+  },
+  {
+    "objectID": "about.html#recommended-resources",
+    "href": "about.html#recommended-resources",
+    "title": "IUSSI-NAS DEIJ",
+    "section": "",
+    "text": "(ABCD Study): understanding brain & cognitive development in adolescents.\n(HBCD Study): understanding brain & cognitive development in newborn babies.\nOther resources here."
+  }
+]
