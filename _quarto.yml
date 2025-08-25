@@ -8,10 +8,10 @@ execute:
   warning: false
   
 website:
-  title: "BeepBoopStats"
-  google-analytics: "G-LXSX23EQ95"
+  title: "IUSSI-NAS DEIJ"
+  # google-analytics: "G-LXSX23EQ95"
   reader-mode: false
-  page-footer: © Beep Boop Stats
+  # page-footer: © Beep Boop Stats
   favicon: /assets/img/favicons/android-chrome-192x192.png
   # top nav
   navbar:
@@ -19,9 +19,9 @@ website:
     logo: /assets/img/favicons/apple-touch-icon.png
     search: true
     left:
-      - text: "Portfolio"
-        file: portfolio.qmd
-      - text: "About"
+      - text: "Workshop Series"
+        file: workshop.qmd
+      - text: "Meet someone"
         file: about.qmd
       - text: "Contact"
         file: assets/contact/index.qmd

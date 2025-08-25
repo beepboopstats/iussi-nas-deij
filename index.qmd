@@ -2,45 +2,35 @@
 about:
   template: trestles
   id: about-block
-  image-width: 15em
-  # image-shape: round
-  image: "assets/img/my_image.png"
+  image-width: 22em
+  image-shape: rectangle
+  image: "assets/img/dp2.png"
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/biplabendu
+    - icon: web
+      text: IUSSI-NAS website
+      href: https://iussi.cyberbee.net/
     - icon: envelope
-      text: Email
-      href: "mailto:beepboopstats@gmail.com"  
+      text: Email DEIJ committee
+      href: "mailto:iussi.nas.deij@gmail.com"  
 format:
   html:
     toc: false
     page-layout: full
 ---
 
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/beepboopstats/free-consultation', text: 'Book your free consultation', color: '#62272d', textColor: '#ffffff' }); }</script>
-<!-- Calendly badge widget end -->
-
 ::: {#about-block}
-## Your Data. Our Solutions.
+### _Diversity, Equity, Inclusion, and Justice_ committee for the IUSSI North American section.
 
-__We specialize in providing data-driven solutions for real-time use.__
+\
+__A brief introduction here__
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
 
-This includes building tools such as:
+This website is aimed to:
 
-- __websites__, for scheduling visits or monitoring your data regularly
-- __interactive dashboards__, to visualize/analyze your data in a flexible way
-- __applications__, for real-time data gathering and analyses
-- __automated data pipelines__, from gathering data to visualizing patterns
-
-Other services include:
-
-- __statistical analyses__, to find patterns in data and devise interventions
-- __data visualization__, to identify complex patterns in data in a simple way
-- __data workshops__, for hands-on training for analyses and visualizations
+- __point 1__, description of point 1
+- __point 2__, description of point 2
+- __point 3__, description of point 3
+- __point 4__, description of point 4
 
 ::: 
 

@@ -1,13 +1,14 @@
 ---
 title: ""
 listing: 
-  contents: portfolio
+  contents: workshop/*/*.qmd
   sort: "date desc"
-  type: grid
+  type: table
   categories: true
   filter-ui: [title]
-  grid-columns: 4
-  grid-item-border: true
+  # grid-columns: 4
+  # grid-item-border: true
   image-height: "200px"
+  image-align: left
 page-layout: full
 ---

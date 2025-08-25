@@ -4,7 +4,7 @@ about:
   id: about-block
   image-width: 15em
   image-shape: round
-  image: "assets/img/dp2.jpeg"
+  image: "assets/img/favicon.png"
   links:
     - icon: globe-americas
       text: personal website
@@ -12,22 +12,19 @@ about:
 ---
 
 ::: {#about-block}
-## Who is working with you?
+## Have you met _This Amazing Person_ ?
 
-Biplabendu Das, fondly called `BILLU`, obtained his Ph.D. in bioinformatics, 
-following which he did postdoctoral research at Stanford University. 
+__Brief introduction highlighting someone's achievement or contribution.__ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+.
 
-Billu works as a Data Scientist / Data Engineer for two nationwide, 
-longitudinal studies aimed at understanding brain & cognitive development in 
-adolescents ([ABCD Study](https://abcdstudy.org/)) & newborn babies 
-([HBCD Study](https://hbcdstudy.org/)).
+## Recommended resources:
 
-## Experience
+1. ([ABCD Study](https://abcdstudy.org/)): understanding brain & cognitive development in 
+adolescents.
 
-1. Data Scientist/Engineer, *J. Craig Venter Institute*, Apr 2025 - present
+2. ([HBCD Study](https://hbcdstudy.org/)): understanding brain & cognitive development in 
+newborn babies.
 
-2. Data Scientist/Engineer, *UC San Diego*, Aug 2023 - Mar 2025
-
-2. Postdoctoral Researcher, *Stanford University*, May 2022 - Oct 2023
+3. _Other resources here_.
 
 ::: 

@@ -1,0 +1,22 @@
+---
+title: "Building websites using R and GitHub"
+categories: [R, GitHub, Website]
+author: Biplabendu Das
+date: 2024-09-13
+image: "author.jpeg"
+---
+
+### Read-along tutorial
+
+The tutorial shows how to deploy a website, hosted on GitHub Pages for free, 
+using R and Markdown.
+
+[Link to tutorial](https://biplabendu.github.io/my_dummy_website/website_tutorial.html)
+
+To make the process easy, I have created a [dummy website](https://biplabendu.github.io/my_dummy_website) that provides a template for building a professional website with two pages: a homepage and a webpage for describing your research experience. The template can be customized by renaming and repurposing the individual pages.
+
+### Video tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0TKAu-H2kc?si=fCPygvJjoIj1zZhS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Source: Workshop hosted on Zoom by Billu in September, 2024.
