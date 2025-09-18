@@ -1,14 +1,120 @@
 ---
-title: "Contact"
+title: ""
 format: 
   html:
-    toc: false
+    toc: true
+editor_options: 
+  chunk_output_type: console
 ---
 
-Current committee members include:
+> You can reach out to the committee via [email](mailto:iussi.nas.deij@gmail.com).
 
-1. Amy (Chair)
-2. Kaitlin
-3. Erika
 
-You can reach out to the committee via [email](mailto:iussi.nas.deij@gmail.com).
+# Elected Members
+
+Current elected DEIJ Committee Members
+
+:::{.grid}
+
+:::{.g-col-12 .g-col-md-4}
+:::{.card}
+:::{.card-body}
+![](../img/favicon.png){width=35% fig-align="center"}
+
+#### Amy Toth (Chair)
+<div class="card-subtitle mb-2 text-muted">
+Professor
+</div>
+:::
+:::
+
+:::{.card}
+:::{.card-body}
+A brief biography.
+
+Email: xyz@mmm.com \
+[Website](https://www.beepboopstats.com/)
+:::
+:::
+:::
+
+:::{.g-col-12 .g-col-md-4}
+:::{.card}
+:::{.card-body}
+![](../img/favicon.png){width=35% fig-align="center"}
+
+#### Kaitlin Baudier
+<div class="card-subtitle mb-2 text-muted">
+Assistant Professor
+</div>
+:::
+:::
+
+:::{.card}
+:::{.card-body}
+A brief biography
+
+Email: xyz@mmm.com \
+[Website](https://www.beepboopstats.com/)
+:::
+:::
+:::
+
+
+:::{.g-col-12 .g-col-md-4}
+:::{.card}
+:::{.card-body}
+![](../img/favicon.png){width=35% fig-align="center"}
+
+#### Erika 
+<div class="card-subtitle mb-2 text-muted">
+Doctoral researcher
+</div>
+:::
+:::
+
+:::{.card}
+:::{.card-body}
+A brief biography
+
+Email: xyz@mmm.com \
+[Website](https://www.beepboopstats.com/)
+:::
+:::
+:::
+
+
+:::
+
+\
+
+# Outreach Program Committee Members
+
+::: {.grid}
+
+:::{.g-col-12 .g-col-md-3}
+### Biplabendu Das
+* Ants, Data Scientist
+* Workshop series
+* [alice@example.com](mailto:alice@example.com)
+:::
+
+:::{.g-col-12 .g-col-md-3}
+### Aimee Dunlap
+* Bees, Professor
+* [bob@example.com](mailto:bob@example.com)
+:::
+
+:::{.g-col-12 .g-col-md-3}
+### Terry McGlynn
+* Ants, Professor
+* [carol@example.com](mailto:carol@example.com)
+:::
+
+:::{.g-col-12 .g-col-md-3}
+### More folks
+* Their titles,
+* [david@example.com](mailto:david@example.com)
+:::
+
+:::
