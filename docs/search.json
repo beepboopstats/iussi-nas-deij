@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "outreach/workshop/01-BD-r_github_websites/index.html",
+    "href": "outreach/workshop/01-BD-r_github_websites/index.html",
+    "title": "Building websites using R + GitHub",
+    "section": "",
+    "text": "Read-along tutorial\nThe tutorial shows how to deploy a website, hosted on GitHub Pages for free, using R and Markdown.\nLink to tutorial\nTo make the process easy, I have created a dummy website that provides a template for building a professional website with two pages: a homepage and a webpage for describing your research experience. The template can be customized by renaming and repurposing the individual pages.\n\n\nVideo tutorial\n\nSource: Workshop hosted on Zoom by Billu in September, 2024."
+  },
+  {
     "objectID": "assets/contact/index.html",
     "href": "assets/contact/index.html",
     "title": "Contact",
@@ -7,32 +14,39 @@
     "text": "Current committee members include:\n\nAmy (Chair)\nKaitlin\nErika\n\nYou can reach out to the committee via email."
   },
   {
+    "objectID": "tc_award.html",
+    "href": "tc_award.html",
+    "title": "Turner-Collins Recognition Program",
+    "section": "",
+    "text": "A brief description here.\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.\n\n\n\n\n\n\n\n\n\n\n\n\nClick to read the complete call for nominations\n\n\n\n\n\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "IUSSI-NAS DEIJ",
+    "title": "IUSSI-NAS DEIJ Committee",
     "section": "",
-    "text": "IUSSI-NAS website\n  \n  \n    \n     Email DEIJ committee\n  \n\n  \n  \n\nDiversity, Equity, Inclusion, and Justice committee for the IUSSI North American section.\n\nA brief introduction here Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nThis website is aimed to:\n\npoint 1, description of point 1\npoint 2, description of point 2\npoint 3, description of point 3"
-  },
-  {
-    "objectID": "workshop/01-BD-r_github_websites/index.html",
-    "href": "workshop/01-BD-r_github_websites/index.html",
-    "title": "Building websites using R + GitHub",
-    "section": "",
-    "text": "Read-along tutorial\nThe tutorial shows how to deploy a website, hosted on GitHub Pages for free, using R and Markdown.\nLink to tutorial\nTo make the process easy, I have created a dummy website that provides a template for building a professional website with two pages: a homepage and a webpage for describing your research experience. The template can be customized by renaming and repurposing the individual pages.\n\n\nVideo tutorial\n\nSource: Workshop hosted on Zoom by Billu in September, 2024."
-  },
-  {
-    "objectID": "workshop/02-XX_YY-name_of_workshop/index.html",
-    "href": "workshop/02-XX_YY-name_of_workshop/index.html",
-    "title": "[UPCOMING] Workshop title here.",
-    "section": "",
-    "text": "This sentence will be displayed as a brief description of the workshop.\nShare workshop materials here. Two options:\n\nProvide necessary links to the materials\nWork with someone to write a tutorial / provide materials directly here."
+    "text": "IUSSI-NAS website\n  \n  \n    \n     Email DEIJ committee\n  \n\n  \n  \n\nDiversity, Equity, Inclusion, and Justice committee for the IUSSI North American section.\n\n\n﻿The IUSSI-NAS believes that everyone, regardless of identity (including race, gender, sexual orientation, socioeconomic class, ethnicity, religion, caste, age, nationality, and ability status), belongs in social insect science. Like the diversity found in a social insect society, having a diverse membership leads to better overall outcomes, and ultimately advances scientific knowledge. IUSSI-NAS is working to support diversity, accessibility, and inclusion efforts by creating opportunities for participation and advancement in social insect science as a whole and actively opposing racism and all other forms of discrimination and harassment. We will listen, learn from, and work with our members from all career stages and backgrounds to build a more diverse, equitable, inclusive, and just community of social insect researchers. You can reach out to the Diversity, Equity, Inclusion, and Justice (DEIJ) Committee anytime with thoughts and concerns.\nEmail: iussi.nas.deij@gmail.com."
   },
   {
     "objectID": "workshop.html",
     "href": "workshop.html",
-    "title": "IUSSI-NAS DEIJ",
+    "title": "Professional Workshop Series",
     "section": "",
-    "text": "[UPCOMING] Workshop title here.\n\n\n\n\n\n\nUpcoming\n\n\n\n\n\n\n\n\n\nOct 10, 2025\n\n\nAuthor One, Author Two\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding websites using R + GitHub\n\n\n\n\n\n\nR\n\n\nGitHub\n\n\nWebsite\n\n\n\n\n\n\n\n\n\nSep 13, 2024\n\n\nBiplabendu Das\n\n\n\n\n\n\nNo matching items"
+    "text": "A brief description here.\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC."
+  },
+  {
+    "objectID": "workshop.html#past-and-upcoming-workshops",
+    "href": "workshop.html#past-and-upcoming-workshops",
+    "title": "Professional Workshop Series",
+    "section": "Past and Upcoming workshops",
+    "text": "Past and Upcoming workshops\n\n\n\n\n\n\nNavigating the workshops\n\n\n\n\n\nMost latest workshops are shown at the top by default.\nUsers can use the following to narrow their search for a workshop.\n\nCategories: Search for keywords to find similar workshops\nFilter: Filter the workshops by matching words in their titles or date"
+  },
+  {
+    "objectID": "fundraising.html",
+    "href": "fundraising.html",
+    "title": "Fundraising for Outreach Fund",
+    "section": "",
+    "text": "We are actively planning this at the moment.\nMore details coming soon"
   },
   {
     "objectID": "about.html",
@@ -54,5 +68,19 @@
     "title": "IUSSI-NAS DEIJ",
     "section": "",
     "text": "(ABCD Study): understanding brain & cognitive development in adolescents.\n(HBCD Study): understanding brain & cognitive development in newborn babies.\nOther resources here."
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "IUSSI-NAS DEIJ",
+    "section": "",
+    "text": "The IUSSI-NAS DEIJ Outreach Program was started to serve as an umbrella program for DEIJ-related initiatives and outreach, not only across IUSSI-NAS, but to reach non-members as well.\nFor the initial phase of the program, we have identified three primary branches that we are currently working on:\n\nTurner-Collins Recognition Program\nProfessional Development Workshop Series, and\nFundraising to create a DEIJ Outreach Fund that can provide monetary support\nfor current and future DEIJ initiatives of IUSSI-NAS members."
+  },
+  {
+    "objectID": "outreach/workshop/02-XX_YY-name_of_workshop/index.html",
+    "href": "outreach/workshop/02-XX_YY-name_of_workshop/index.html",
+    "title": "[UPCOMING] Workshop title here.",
+    "section": "",
+    "text": "This sentence will be displayed as a brief description of the workshop.\nShare workshop materials here. Two options:\n\nProvide necessary links to the materials\nWork with someone to write a tutorial / provide materials directly here."
   }
 ]

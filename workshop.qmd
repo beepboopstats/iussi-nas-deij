@@ -1,14 +1,48 @@
 ---
-title: ""
+title: "Professional Workshop Series"
+about:
+  template: trestles
+  id: about-block
+  image-width: 18em
+  image-shape: rectangle
+  image: "assets/img/dp2.png"
 listing: 
   contents: workshop/*/*.qmd
   sort: "date desc"
   type: default
   categories: true
-  # filter-ui: [title]
+  filter-ui: [title, date]
   # grid-columns: 4
   # grid-item-border: true
   image-height: "100px"
   image-align: left
 page-layout: full
+format:
+  html:
+    toc: false
 ---
+
+::: {#about-block}
+
+__A brief description here.__
+
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. 
+
+:::
+
+\
+
+___
+
+## Past and Upcoming workshops
+::: {.callout-tip collapse=true}
+## Navigating the workshops
+
+__Most latest workshops are shown at the top by default.__
+
+Users can use the following to narrow their search for a workshop.
+
+- `Categories`: Search for keywords to find similar workshops
+- `Filter`: Filter the workshops by matching words in their titles or date
+
+:::

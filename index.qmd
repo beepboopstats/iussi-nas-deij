@@ -1,4 +1,5 @@
 ---
+title: "IUSSI-NAS DEIJ Committee"
 about:
   template: trestles
   id: about-block
@@ -16,31 +17,33 @@ format:
   html:
     toc: false
     page-layout: full
+editor_options: 
+  chunk_output_type: console
 ---
 
 ::: {#about-block}
 ### _Diversity, Equity, Inclusion, and Justice_ committee for the IUSSI North American section.
-
 \
-__A brief introduction here__
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
 
-This website is aimed to:
+```{r}
+library(httr)
+library(rvest)
 
-- __point 1__, description of point 1
-- __point 2__, description of point 2
-- __point 3__, description of point 3
+doc_id <- "12VfAXky7KvJLgTyE-A8G980H1IUZGOzJhBHMukiiZYg"
+url <- paste0("https://docs.google.com/document/d/", doc_id, "/export?format=txt")
+
+res <- GET(url)
+
+if (status_code(res) == 200) {
+  text <- content(res, as = "text", encoding = "UTF-8")
+  # cat(text)
+} else {
+  stop("Failed to fetch document. Status code: ", status_code(res))
+}
+
+```
+
+`r text`
 
 ::: 
 
-<!-- ```{r} -->
-<!-- dttm <- Sys.time() |>  -->
-<!--   .POSIXct("MST") |>  -->
-<!--   format("%Y-%m-%d %H:%M %Z") -->
-
-<!-- today <- Sys.time() |> .POSIXct("MST") |> lubridate::as_date() -->
-<!-- ``` -->
-
-<!-- <p align = "right" style="font-size: 15px;"> -->
-<!-- Last updated on `r today` -->
-<!-- </p> -->

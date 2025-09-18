@@ -1,0 +1,21 @@
+---
+title: "Fundraising for Outreach Fund"
+about:
+  template: trestles
+  id: about-block
+  image-width: 22em
+  image-shape: rectangle
+  image: "assets/img/dp2.png"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+::: {#about-block}
+
+We are actively planning this at the moment. 
+
+__More details coming soon__
+
+:::

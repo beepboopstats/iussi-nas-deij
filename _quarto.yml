@@ -11,7 +11,7 @@ website:
   title: "IUSSI-NAS DEIJ"
   # google-analytics: "G-LXSX23EQ95"
   reader-mode: false
-  # page-footer: © Beep Boop Stats
+  page-footer: made with ❤ by [BeepBoopStats, LLC](https://www.beepboopstats.com/)
   favicon: /assets/img/favicons/android-chrome-192x192.png
   # top nav
   navbar:
@@ -19,11 +19,19 @@ website:
     logo: /assets/img/favicons/apple-touch-icon.png
     search: true
     left:
-      - text: "Workshop Series"
-        file: workshop.qmd
-      - text: "Meet someone"
+      - text: "Outreach Program"
+        menu:
+          - text: "Overview"
+            file: outreach.qmd
+          - text: "Turner-Collins Award"
+            file: tc_award.qmd
+          - text: "Workshop Series"
+            file: workshop.qmd
+          - text: "Fundraising"
+            file: fundraising.qmd
+      - text: "Resources"
         file: about.qmd
-      - text: "Contact"
+      - text: "Meet the Committee"
         file: assets/contact/index.qmd
     css: assets/css/styles.scss
 
