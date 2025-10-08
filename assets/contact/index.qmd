@@ -2,17 +2,12 @@
 title: ""
 format: 
   html:
-    toc: true
+    toc: false
 editor_options: 
   chunk_output_type: console
 ---
 
-> You can reach out to the committee via [email](mailto:iussi.nas.deij@gmail.com).
-
-
-# Elected Members
-
-Current elected DEIJ Committee Members
+# Current Officers
 
 :::{.grid}
 
@@ -25,15 +20,8 @@ Current elected DEIJ Committee Members
 <div class="card-subtitle mb-2 text-muted">
 Professor
 </div>
-:::
-:::
-
-:::{.card}
-:::{.card-body}
-A brief biography.
-
-Email: xyz@mmm.com \
-[Website](https://www.beepboopstats.com/)
+_2022-present_ \
+<!-- [alice@example.com](mailto:alice@example.com) -->
 :::
 :::
 :::
@@ -47,74 +35,65 @@ Email: xyz@mmm.com \
 <div class="card-subtitle mb-2 text-muted">
 Assistant Professor
 </div>
-:::
-:::
-
-:::{.card}
-:::{.card-body}
-A brief biography
-
-Email: xyz@mmm.com \
-[Website](https://www.beepboopstats.com/)
+_2023-present_ \
+<!-- [alice@example.com](mailto:alice@example.com) -->
 :::
 :::
 :::
-
 
 :::{.g-col-12 .g-col-md-4}
 :::{.card}
 :::{.card-body}
 ![](../img/favicon.png){width=35% fig-align="center"}
 
-#### Erika 
+#### Erika Ibarra-Garibay
 <div class="card-subtitle mb-2 text-muted">
 Doctoral researcher
 </div>
-:::
-:::
-
-:::{.card}
-:::{.card-body}
-A brief biography
-
-Email: xyz@mmm.com \
-[Website](https://www.beepboopstats.com/)
+_2024-present_ \
+<!-- [alice@example.com](mailto:alice@example.com) -->
 :::
 :::
 :::
 
-
 :::
-
 \
 
-# Outreach Program Committee Members
+You can reach out to the committee via [email to iussi.nas.deij@gmail.com](mailto:iussi.nas.deij@gmail.com).
 
-::: {.grid}
 
-:::{.g-col-12 .g-col-md-3}
-### Biplabendu Das
-* Ants, Data Scientist
-* Workshop series
-* [alice@example.com](mailto:alice@example.com)
+# Past Officers
+
+:::{.grid}
+
+:::{.g-col-12 .g-col-md-4}
+:::{.card}
+:::{.card-body}
+![](../img/favicon.png){width=35% fig-align="center"}
+
+#### Chelsea Cook
+<div class="card-subtitle mb-2 text-muted">
+Professor \
+</div>
+_Tenure: 2022-23_
+<!-- [alice@example.com](mailto:alice@example.com) -->
+:::
+:::
 :::
 
-:::{.g-col-12 .g-col-md-3}
-### Aimee Dunlap
-* Bees, Professor
-* [bob@example.com](mailto:bob@example.com)
-:::
+:::{.g-col-12 .g-col-md-4}
+:::{.card}
+:::{.card-body}
+![](../img/favicon.png){width=35% fig-align="center"}
 
-:::{.g-col-12 .g-col-md-3}
-### Terry McGlynn
-* Ants, Professor
-* [carol@example.com](mailto:carol@example.com)
+#### Biplabendu Das
+<div class="card-subtitle mb-2 text-muted">
+Data Scientist \
+</div>
+_Tenure: 2022-24_
+<!-- [alice@example.com](mailto:alice@example.com) -->
 :::
-
-:::{.g-col-12 .g-col-md-3}
-### More folks
-* Their titles,
-* [david@example.com](mailto:david@example.com)
+:::
 :::
 
 :::

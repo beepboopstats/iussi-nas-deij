@@ -24,9 +24,11 @@ format:
 
 ::: {#about-block}
 
-__A brief description here.__
+The workshop series aims to organize and host 2 to 3 workshops every year,
+hosted online, and freely available to everyone.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. 
+All workshops will be recorded and the videos will be available in their
+specific pages.
 
 :::
 
@@ -35,10 +37,10 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 ___
 
 ## Past and Upcoming workshops
-::: {.callout-tip collapse=true}
+::: {.callout-tip collapse=false}
 ## Navigating the workshops
 
-__Most latest workshops are shown at the top by default.__
+__Latest workshops are shown at the top by default.__
 
 Users can use the following to narrow their search for a workshop.
 

@@ -30,7 +30,7 @@ website:
           - text: "Fundraising"
             file: fundraising.qmd
       - text: "Resources"
-        file: about.qmd
+        file: resources.qmd
       - text: "Meet the Committee"
         file: assets/contact/index.qmd
     css: assets/css/styles.scss

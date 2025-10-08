@@ -20,8 +20,67 @@ IUSSI-NAS, but to reach non-members as well.
 For the initial phase of the program, we have identified three primary branches 
 that we are currently working on: 
 
-1. __Turner-Collins Recognition Program__ 
-2. __Professional Development Workshop Series__, and
-3. __Fundraising__ to create a `DEIJ Outreach Fund` that can provide monetary support \
-  for current and future DEIJ initiatives of IUSSI-NAS members.
+1. __[Turner-Collins Recognition Program](tc_award.qmd)__ 
+2. __[Professional Development Workshop Series](workshop.qmd)__, and
+3. __[Fundraising](fundraising.qmd)__ to create a *DEIJ Outreach Fund* that can 
+provide monetary support for current and future DEIJ initiatives of 
+IUSSI-NAS members.
+:::
+
+::: {.callout-tip collapse=true}
+
+### Outreach Program Committee Members
+
+::: {.grid}
+
+:::{.g-col-12 .g-col-md-4}
+#### Biplabendu [Billu] Das
+Data Scientist/Engineer
+
+* Workshop
+* [Email me](mailto:biplabendu.das@gmail.com)
+:::
+
+:::{.g-col-12 .g-col-md-4}
+#### Aimee Dunlap
+Professor
+
+* Workshop, Fundraising
+* [bob@example.com](mailto:bob@example.com)
+:::
+
+:::{.g-col-12 .g-col-md-4}
+#### Terry McGlynn
+Professor
+
+* TC Award, Fundraising
+* [carol@example.com](mailto:carol@example.com)
+:::
+
+:::{.g-col-12 .g-col-md-4}
+#### Benjamin Pyenson 
+Postdoctoral Researcher 
+
+* Workshop
+* [david@example.com](mailto:david@example.com)
+:::
+
+:::{.g-col-12 .g-col-md-4}
+#### Floria Uy
+Professor
+
+* TC Award, Workshop, Fundraising 
+* [david@example.com](mailto:david@example.com)
+:::
+
+:::{.g-col-12 .g-col-md-4}
+#### Mary Jane West-Eberhard
+Professor
+
+* TC Award, Fundraising
+* [david@example.com](mailto:david@example.com)
+:::
+
+:::
+
 :::

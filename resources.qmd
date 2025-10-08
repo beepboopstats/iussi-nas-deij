@@ -1,0 +1,128 @@
+---
+title: ""
+about:
+  template: trestles
+  id: about-block
+  image-width: 18em
+  image-shape: rectangle
+  image: "assets/img/dp2.png"
+page-layout: full
+format:
+  html:
+    toc: false
+editor_options: 
+  chunk_output_type: console
+---
+
+::: {#about-block}
+
+This page collates several useful resources for the
+social insect researcher community.
+
+__If you want to add a resource, [please fill out this google form.](https://docs.google.com/forms/d/e/1FAIpQLSege2aY39wFIAMqU9g-EqMjiEZBG3mVvtJhQeAZn1xbIjUAtQ/viewform?usp=header).__
+
+:::
+
+::: {.callout-tip collapse=false}
+# Interact with the table
+
+> **You can interact with the table** \
+>
+>   - **Sort**: click the name of the column \
+>   - **Filter**: search for a value in the boxes under the column name \
+>   - **Resize**: pull the column borders to resize column width \
+>   - **Expand**: Click the  expand button to see data for a group \
+
+:::
+
+```{r}
+library(dplyr)
+library(reactable)
+
+url <- "https://docs.google.com/spreadsheets/d/1Tng6uFmbHvmgWTZE-aPs23xn8V9qWz8JLiNi1QjmlUQ/edit?gid=29316288#gid=29316288"
+
+googlesheets4::gs4_deauth()
+tbl <- googlesheets4::read_sheet(
+  url,
+  sheet = 1
+) |> 
+  janitor::clean_names()
+
+tidy_tbl <- tbl |> 
+  setNames(
+    c(
+      "date_added",
+      "name",
+      "title",
+      "desc",
+      "weblink",
+      "approved"
+    )
+  ) |> 
+  filter(
+    approved == "yes"
+  ) |> 
+  select(
+    - approved
+  ) |> 
+  mutate(
+    date_added = lubridate::as_date(date_added)
+  )
+
+tidy_tbl |> 
+  select(
+    - name
+  ) |> 
+  reactable(
+    style = list(fontFamily = "Work Sans, sans-serif", fontSize = "16px"),
+    sortable = TRUE,
+    resizable = TRUE,
+    filterable = TRUE,
+    searchable = TRUE,
+    columns = list(
+      date_added = reactable::colDef(minWidth = 50),
+      title = reactable::colDef(minWidth = 80),
+      desc = reactable::colDef(minWidth = 160),
+      weblink = reactable::colDef(
+        cell = function(value) {
+          htmltools::tags$a(href = value, target = "_blank", rel = "noopener noreferrer", value)
+        },
+        minWidth = 60,
+        sortable = FALSE,
+        filterable = FALSE
+      )
+    ),
+    rowStyle = function(index) {
+      list(height = "100px", whiteSpace = "normal") # Sets height to 50px for all rows
+    },
+    details = function(index) {
+      htmltools::div(
+        style = "padding: 10px;",
+        htmltools::tagList(
+          "Who added this resource: ",
+          htmltools::tags$br(),
+          if_else(
+            is.na(tidy_tbl$name[index]),
+            "not available",
+            as.character(tidy_tbl$name[index])
+          )
+        )
+      )
+    },
+    striped = TRUE,
+    highlight = TRUE,
+    bordered = TRUE,
+    showPageSizeOptions = TRUE,
+    theme = reactable::reactableTheme(
+      borderColor = "#dfe2e5",
+      stripedColor = "#f6f8fa",
+      highlightColor = "#FDBF6F",
+      cellPadding = "8px 12px"
+    ),
+    defaultPageSize = 10
+  )
+
+
+
+```
+

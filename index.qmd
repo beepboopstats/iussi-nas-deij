@@ -13,6 +13,14 @@ about:
     - icon: envelope
       text: Email DEIJ committee
       href: "mailto:iussi.nas.deij@gmail.com"  
+listing: 
+  contents: workshop/*/*.qmd
+  sort: "date desc"
+  type: default
+  categories: false
+  max-items: 1
+  image-height: "120px"
+  image-align: left
 format:
   html:
     toc: false
@@ -46,3 +54,7 @@ if (status_code(res) == 200) {
 `r text`
 
 ::: 
+
+# Upcoming / recent events
+
+#

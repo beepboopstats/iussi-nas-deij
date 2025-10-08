@@ -1,52 +1,24 @@
 [
   {
-    "objectID": "outreach/workshop/02-BK_KB-comm_social_insect_science/index.html",
-    "href": "outreach/workshop/02-BK_KB-comm_social_insect_science/index.html",
-    "title": "[UPCOMING] Communicating Social Insect Science",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "IUSSI-NAS DEIJ",
     "section": "",
-    "text": "Tips and tools for sharing our love of social insects with the world.\n\n\n\n\n\n\n\n\n\n﻿The IUSSI-NAS DEIJ Committee is excited to announce our second workshop.\nTopic: COMMUNICATING SOCIAL INSECT SCIENCE\nPresenters: DR. BARRETT KLEIN and DR. KAITLIN BAUDIER\nWhere: Zoom link here\n\nThe workshop will be December 11, 2025 from 11-1pm central time, via Zoom. We will have presentations and lots of discussion. What better way to spend your lunch hour than with your social insect peeps talking about sharing our love of social insects with the world?!?!\nFlyer attached, please share widely. The presentation will be recorded."
+    "text": "This page collates several useful resources for the social insect researcher community.\nIf you want to add a resource, please fill out this google form..\n\n\n\n\n\n\n\n\n\nInteract with the table\n\n\n\n\n\n\nYou can interact with the table\n\n\nSort: click the name of the column\n\nFilter: search for a value in the boxes under the column name\n\nResize: pull the column borders to resize column width\n\nExpand: Click the expand button to see data for a group"
   },
   {
-    "objectID": "assets/contact/index.html",
-    "href": "assets/contact/index.html",
-    "title": "Elected Members",
+    "objectID": "outreach/workshop/01-BD-r_github_websites/index.html",
+    "href": "outreach/workshop/01-BD-r_github_websites/index.html",
+    "title": "Building websites using R + GitHub",
     "section": "",
-    "text": "You can reach out to the committee via email.\n\n\nElected Members\nCurrent elected DEIJ Committee Members\n\n\n\n\n\n\n\n\n\n\nAmy Toth (Chair)\n\nProfessor\n\n\n\n\n\n\nA brief biography.\nEmail: xyz@mmm.com\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\nKaitlin Baudier\n\nAssistant Professor\n\n\n\n\n\n\nA brief biography\nEmail: xyz@mmm.com\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\nErika\n\nDoctoral researcher\n\n\n\n\n\n\nA brief biography\nEmail: xyz@mmm.com\nWebsite\n\n\n\n\n\n\n\n\nOutreach Program Committee Members\n\n\nBiplabendu Das\n\nAnts, Data Scientist\nWorkshop series\nalice@example.com\n\n\n\nAimee Dunlap\n\nBees, Professor\nbob@example.com\n\n\n\nTerry McGlynn\n\nAnts, Professor\ncarol@example.com\n\n\n\nMore folks\n\nTheir titles,\ndavid@example.com"
+    "text": "Read-along tutorial\nThe tutorial shows how to deploy a website, hosted on GitHub Pages for free, using R and Markdown.\nLink to tutorial\nTo make the process easy, I have created a dummy website that provides a template for building a professional website with two pages: a homepage and a webpage for describing your research experience. The template can be customized by renaming and repurposing the individual pages.\n\n\nVideo tutorial\n\nSource: Workshop hosted on Zoom by Billu in September, 2024."
   },
   {
-    "objectID": "tc_award.html",
-    "href": "tc_award.html",
-    "title": "Turner-Collins Recognition Program",
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "IUSSI-NAS DEIJ",
     "section": "",
-    "text": "The Turner-Collins Program encourages and recognizes efforts to promote interest in biology among African-Americans and Native-Americans using social insects and related material, by IUSSI-NAS members, or persons observed by them (for example, a non-member teacher).\nThis award is inspired by the work and advocacy of two African-American researchers. Charles H. Turner (1867-1923) was a noted student of social wasps, ants and bees. Margaret Collins (1922-1996) was a taxonomist and natural historian of termites. Both were dedicated to the promotion of the well-being and education of their fellow Black Americans. This award encourages scientists, students and community members associated with the IUSSI-NAS to use their special interests for humanitarian ends: improvement of public access to knowledge, especially among children, young people, and concerned parents in these historically excluded groups. Nominees do not have to be members of IUSSI and may be citizens of any country, so long as they have engaged or are actively engaged in projects that promote black and/or Native American representation in Social Insect Science somewhere in North America.\nSee the current call for nominations.\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\n\n﻿CALL FOR NOMINATIONS:\nTurner-Collins Award\nDue November 31, 2025\n\nPurpose: To encourage and recognize efforts to promote interest in biology among African Americans and Native Americans using social insects and related material. Nature: The award shall consist of a certificate of recognition that can be listed among the outreach achievements valued by institutions of learning and employment. The awardees will be announced by December 30, 2025. The program is inspired by the work and advocacy of two African American researchers. Charles H. Turner (1867- 1923) was a noted student of social wasps, ants and bees. Margaret Collins (1922- 1996) was a taxonomist and natural historian of termites. Both were dedicated to the promotion of the well-being and education of their fellow Black Americans. This award encourages scientists, students and community members associated with the IUSSI- NAS to use their special interests for humanitarian ends: improvement of public access to knowledge, especially among children, young people, and concerned parents in these historically excluded groups.\nEligibility: The award will be given to people who have engaged or are currently engaged in impactful activities that increase Black and/or Native American representation in the field of Social Insect Science. These outreach activities should generally take place somewhere in North America (inclusive of Canada, the USA, and Mexico), though projects within the spirit of the award, but taking place in whole or in part outside of North America will be considered on a case-by-case basis. Non-IUSSI members and citizens of any country are eligible. Reviewable actions must have taken place within the last 5 years.\nNominations: Self nominations are encouraged. Each nomination packet should consist of a single PDF containing the following sections:\n\nCover page – includes the following information about the nominee:\n\n\nName of nominee\nAffiliation of nominee (e.g. institution and Department)\nPosition (e.g. Graduate Student, Associate Professor, K-12 Teacher)\nMailing address\nEmail address\n\n\nOne-page description of Turner-Collins related project that explicitly specifies:\n\n\nInclusion of African-American and/or Native-American participants\nMagnitude of positive impact (Discuss the number of people affected and “quality” of positive impact)\nDuration of project (Was this a one-time event or a long-term initiative?)\nLevel of specificity (To what extent is/was this project a successful effort to increase representation in the target population?)\nMention if there was any collaboration with established organizations or individuals working towards DEIJ objectives (optional). For example: working with on-campus black student organizations, etc. The nominee must appreciably add value beyond what that organization was already doing without them.\n\n\nA letter of support from one or more person(s) familiar with the project. This could be a student, a participant, an advisor, or other community member (non- confidential, to be included in the compiled PDF).\nAn up-to-date CV or resumé of the applicant/nominee.\n\nAdditional documents, such as photographs or media reports of the project may be attached to the application but are not required.\nEmail compiled PDF document to iussi.nas.deij@gmail.com by November 31, 2025."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IUSSI-NAS DEIJ Committee",
-    "section": "",
-    "text": "IUSSI-NAS website\n  \n  \n    \n     Email DEIJ committee\n  \n\n  \n  \n\nDiversity, Equity, Inclusion, and Justice committee for the IUSSI North American section.\n\n\n﻿The IUSSI-NAS believes that everyone, regardless of identity (including race, gender, sexual orientation, socioeconomic class, ethnicity, religion, caste, age, nationality, and ability status), belongs in social insect science. Like the diversity found in a social insect society, having a diverse membership leads to better overall outcomes, and ultimately advances scientific knowledge. IUSSI-NAS is working to support diversity, accessibility, and inclusion efforts by creating opportunities for participation and advancement in social insect science as a whole and actively opposing racism and all other forms of discrimination and harassment. We will listen, learn from, and work with our members from all career stages and backgrounds to build a more diverse, equitable, inclusive, and just community of social insect researchers. You can reach out to the Diversity, Equity, Inclusion, and Justice (DEIJ) Committee anytime with thoughts and concerns.\nEmail: iussi.nas.deij@gmail.com."
-  },
-  {
-    "objectID": "workshop.html",
-    "href": "workshop.html",
-    "title": "Professional Workshop Series",
-    "section": "",
-    "text": "A brief description here.\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC."
-  },
-  {
-    "objectID": "workshop.html#past-and-upcoming-workshops",
-    "href": "workshop.html#past-and-upcoming-workshops",
-    "title": "Professional Workshop Series",
-    "section": "Past and Upcoming workshops",
-    "text": "Past and Upcoming workshops\n\n\n\n\n\n\nNavigating the workshops\n\n\n\n\n\nMost latest workshops are shown at the top by default.\nUsers can use the following to narrow their search for a workshop.\n\nCategories: Search for keywords to find similar workshops\nFilter: Filter the workshops by matching words in their titles or date"
-  },
-  {
-    "objectID": "fundraising.html",
-    "href": "fundraising.html",
-    "title": "Fundraising for Outreach Fund",
-    "section": "",
-    "text": "We are actively planning this at the moment.\nMore details coming soon"
+    "text": "The IUSSI-NAS DEIJ Outreach Program was started to serve as an umbrella program for DEIJ-related initiatives and outreach, not only across IUSSI-NAS, but to reach non-members as well.\nFor the initial phase of the program, we have identified three primary branches that we are currently working on:\n\nTurner-Collins Recognition Program\nProfessional Development Workshop Series, and\nFundraising to create a DEIJ Outreach Fund that can provide monetary support for current and future DEIJ initiatives of IUSSI-NAS members.\n\n\n\n\n\n\n\n\n\n\nOutreach Program Committee Members\n\n\n\n\n\n\n\nBiplabendu [Billu] Das\nData Scientist/Engineer\n\nWorkshop\nEmail me\n\n\n\nAimee Dunlap\nProfessor\n\nWorkshop, Fundraising\nbob@example.com\n\n\n\nTerry McGlynn\nProfessor\n\nTC Award, Fundraising\ncarol@example.com\n\n\n\nBenjamin Pyenson\nPostdoctoral Researcher\n\nWorkshop\ndavid@example.com\n\n\n\nFloria Uy\nProfessor\n\nTC Award, Workshop, Fundraising\ndavid@example.com\n\n\n\nMary Jane West-Eberhard\nProfessor\n\nTC Award, Fundraising\ndavid@example.com"
   },
   {
     "objectID": "about.html",
@@ -70,17 +42,52 @@
     "text": "(ABCD Study): understanding brain & cognitive development in adolescents.\n(HBCD Study): understanding brain & cognitive development in newborn babies.\nOther resources here."
   },
   {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "IUSSI-NAS DEIJ",
+    "objectID": "fundraising.html",
+    "href": "fundraising.html",
+    "title": "Fundraising for Outreach Fund",
     "section": "",
-    "text": "The IUSSI-NAS DEIJ Outreach Program was started to serve as an umbrella program for DEIJ-related initiatives and outreach, not only across IUSSI-NAS, but to reach non-members as well.\nFor the initial phase of the program, we have identified three primary branches that we are currently working on:\n\nTurner-Collins Recognition Program\nProfessional Development Workshop Series, and\nFundraising to create a DEIJ Outreach Fund that can provide monetary support\nfor current and future DEIJ initiatives of IUSSI-NAS members."
+    "text": "We are actively planning this at the moment.\nMore details coming soon"
   },
   {
-    "objectID": "outreach/workshop/01-BD-r_github_websites/index.html",
-    "href": "outreach/workshop/01-BD-r_github_websites/index.html",
-    "title": "Building websites using R + GitHub",
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "Professional Workshop Series",
     "section": "",
-    "text": "Read-along tutorial\nThe tutorial shows how to deploy a website, hosted on GitHub Pages for free, using R and Markdown.\nLink to tutorial\nTo make the process easy, I have created a dummy website that provides a template for building a professional website with two pages: a homepage and a webpage for describing your research experience. The template can be customized by renaming and repurposing the individual pages.\n\n\nVideo tutorial\n\nSource: Workshop hosted on Zoom by Billu in September, 2024."
+    "text": "The workshop series aims to organize and host 2 to 3 workshops every year, hosted online, and freely available to everyone.\nAll workshops will be recorded and the videos will be available in their specific pages."
+  },
+  {
+    "objectID": "workshop.html#past-and-upcoming-workshops",
+    "href": "workshop.html#past-and-upcoming-workshops",
+    "title": "Professional Workshop Series",
+    "section": "Past and Upcoming workshops",
+    "text": "Past and Upcoming workshops\n\n\n\n\n\n\nNavigating the workshops\n\n\n\n\n\nLatest workshops are shown at the top by default.\nUsers can use the following to narrow their search for a workshop.\n\nCategories: Search for keywords to find similar workshops\nFilter: Filter the workshops by matching words in their titles or date"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IUSSI-NAS DEIJ Committee",
+    "section": "",
+    "text": "IUSSI-NAS website\n  \n  \n    \n     Email DEIJ committee\n  \n\n  \n  \n\nDiversity, Equity, Inclusion, and Justice committee for the IUSSI North American section.\n\n\n﻿The IUSSI-NAS believes that everyone, regardless of identity (including race, gender, sexual orientation, socioeconomic class, ethnicity, religion, caste, age, nationality, and ability status), belongs in social insect science. Like the diversity found in a social insect society, having a diverse membership leads to better overall outcomes, and ultimately advances scientific knowledge. IUSSI-NAS is working to support diversity, accessibility, and inclusion efforts by creating opportunities for participation and advancement in social insect science as a whole and actively opposing racism and all other forms of discrimination and harassment. We will listen, learn from, and work with our members from all career stages and backgrounds to build a more diverse, equitable, inclusive, and just community of social insect researchers. You can reach out to the Diversity, Equity, Inclusion, and Justice (DEIJ) Committee anytime with thoughts and concerns.\nEmail: iussi.nas.deij@gmail.com.\n\n\n\n\n\nUpcoming / recent events\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[UPCOMING] Communicating Social Insect Science\n\n\n\n\n\n\n\n\n\n\n\nDec 11, 2025\n\n\nBarrett Klein, Kaitlin Baudier\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tc_award.html",
+    "href": "tc_award.html",
+    "title": "Turner-Collins Recognition Program",
+    "section": "",
+    "text": "The Turner-Collins Program encourages and recognizes efforts to promote interest in biology among African-Americans and Native-Americans using social insects and related material, by IUSSI-NAS members, or persons observed by them (for example, a non-member teacher).\nThis award is inspired by the work and advocacy of two African-American researchers. Charles H. Turner (1867-1923) was a noted student of social wasps, ants and bees. Margaret Collins (1922-1996) was a taxonomist and natural historian of termites. Both were dedicated to the promotion of the well-being and education of their fellow Black Americans. This award encourages scientists, students and community members associated with the IUSSI-NAS to use their special interests for humanitarian ends: improvement of public access to knowledge, especially among children, young people, and concerned parents in these historically excluded groups. Nominees do not have to be members of IUSSI and may be citizens of any country, so long as they have engaged or are actively engaged in projects that promote black and/or Native American representation in Social Insect Science somewhere in North America.\nSee the current call for nominations.\n\n\n\n\n\n\n\n\n\n\n\n\nRead the full call for nomination\n\n\n\n\n\n﻿CALL FOR NOMINATIONS:\nTurner-Collins Award\nDue November 31, 2025\n\nPurpose: To encourage and recognize efforts to promote interest in biology among African Americans and Native Americans using social insects and related material. Nature: The award shall consist of a certificate of recognition that can be listed among the outreach achievements valued by institutions of learning and employment. The awardees will be announced by December 30, 2025. The program is inspired by the work and advocacy of two African American researchers. Charles H. Turner (1867- 1923) was a noted student of social wasps, ants and bees. Margaret Collins (1922- 1996) was a taxonomist and natural historian of termites. Both were dedicated to the promotion of the well-being and education of their fellow Black Americans. This award encourages scientists, students and community members associated with the IUSSI- NAS to use their special interests for humanitarian ends: improvement of public access to knowledge, especially among children, young people, and concerned parents in these historically excluded groups.\nEligibility: The award will be given to people who have engaged or are currently engaged in impactful activities that increase Black and/or Native American representation in the field of Social Insect Science. These outreach activities should generally take place somewhere in North America (inclusive of Canada, the USA, and Mexico), though projects within the spirit of the award, but taking place in whole or in part outside of North America will be considered on a case-by-case basis. Non-IUSSI members and citizens of any country are eligible. Reviewable actions must have taken place within the last 5 years.\nNominations: Self nominations are encouraged. Each nomination packet should consist of a single PDF containing the following sections:\n\nCover page – includes the following information about the nominee:\n\n\nName of nominee\nAffiliation of nominee (e.g. institution and Department)\nPosition (e.g. Graduate Student, Associate Professor, K-12 Teacher)\nMailing address\nEmail address\n\n\nOne-page description of Turner-Collins related project that explicitly specifies:\n\n\nInclusion of African-American and/or Native-American participants\nMagnitude of positive impact (Discuss the number of people affected and “quality” of positive impact)\nDuration of project (Was this a one-time event or a long-term initiative?)\nLevel of specificity (To what extent is/was this project a successful effort to increase representation in the target population?)\nMention if there was any collaboration with established organizations or individuals working towards DEIJ objectives (optional). For example: working with on-campus black student organizations, etc. The nominee must appreciably add value beyond what that organization was already doing without them.\n\n\nA letter of support from one or more person(s) familiar with the project. This could be a student, a participant, an advisor, or other community member (non- confidential, to be included in the compiled PDF).\nAn up-to-date CV or resumé of the applicant/nominee.\n\nAdditional documents, such as photographs or media reports of the project may be attached to the application but are not required.\nEmail compiled PDF document to iussi.nas.deij@gmail.com by November 31, 2025."
+  },
+  {
+    "objectID": "assets/contact/index.html",
+    "href": "assets/contact/index.html",
+    "title": "Current Officers",
+    "section": "",
+    "text": "Current Officers\n\n\n\n\n\n\n\n\n\n\nAmy Toth (Chair)\n\nProfessor\n\n2022-present\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKaitlin Baudier\n\nAssistant Professor\n\n2023-present\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErika Ibarra-Garibay\n\nDoctoral researcher\n\n2024-present\n\n\n\n\n\n\n\n\nYou can reach out to the committee via email to iussi.nas.deij@gmail.com.\n\n\nPast Officers\n\n\n\n\n\n\n\n\n\n\nChelsea Cook\n\nProfessor\n\n\nTenure: 2022-23 \n\n\n\n\n\n\n\n\n\n\n\n\n\nBiplabendu Das\n\nData Scientist\n\n\nTenure: 2022-24"
+  },
+  {
+    "objectID": "outreach/workshop/02-BK_KB-comm_social_insect_science/index.html",
+    "href": "outreach/workshop/02-BK_KB-comm_social_insect_science/index.html",
+    "title": "[UPCOMING] Communicating Social Insect Science",
+    "section": "",
+    "text": "Tips and tools for sharing our love of social insects with the world.\n\n\n\n\n\nThe IUSSI-NAS DEIJ Committee is excited to announce our second workshop.\nTopic: COMMUNICATING SOCIAL INSECT SCIENCE\nPresenters: DR. BARRETT KLEIN and DR. KAITLIN BAUDIER\nWhere: Zoom link here\n\nThe workshop will be December 11, 2025 from 11-1pm central time, via Zoom. We will have presentations and lots of discussion. What better way to spend your lunch hour than with your social insect peeps talking about sharing our love of social insects with the world?!?!\nFlyer attached, please share widely. The presentation will be recorded."
   }
 ]
