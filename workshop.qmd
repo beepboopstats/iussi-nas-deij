@@ -1,5 +1,5 @@
 ---
-title: "Professional Workshop Series"
+title: "Workshop Series"
 about:
   template: trestles
   id: about-block
@@ -24,11 +24,11 @@ format:
 
 ::: {#about-block}
 
-The workshop series aims to organize and host 2 to 3 workshops every year,
-hosted online, and freely available to everyone.
+The workshop series aims to organize and host 2-3 professional development
+workshops every year, hosted online, and freely available to everyone.
 
 All workshops will be recorded and the videos will be available in their
-specific pages.
+specific pages. Click on a workshop below to view materials.
 
 :::
 

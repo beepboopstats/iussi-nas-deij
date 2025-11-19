@@ -39,7 +39,7 @@ __If you want to add a resource, [please fill out this google form.](https://doc
 library(dplyr)
 library(reactable)
 
-url <- "https://docs.google.com/spreadsheets/d/1Tng6uFmbHvmgWTZE-aPs23xn8V9qWz8JLiNi1QjmlUQ/edit?gid=29316288#gid=29316288"
+url <- Sys.getenv("resources_url")
 
 googlesheets4::gs4_deauth()
 tbl <- googlesheets4::read_sheet(
@@ -71,7 +71,8 @@ tidy_tbl <- tbl |>
 
 tidy_tbl |> 
   select(
-    - name
+    - name,
+    - date_added
   ) |> 
   reactable(
     style = list(fontFamily = "Work Sans, sans-serif", fontSize = "16px"),
@@ -80,14 +81,14 @@ tidy_tbl |>
     filterable = TRUE,
     searchable = TRUE,
     columns = list(
-      date_added = reactable::colDef(minWidth = 50),
-      title = reactable::colDef(minWidth = 80),
+      # date_added = reactable::colDef(minWidth = 35),
+      title = reactable::colDef(minWidth = 60),
       desc = reactable::colDef(minWidth = 160),
       weblink = reactable::colDef(
         cell = function(value) {
           htmltools::tags$a(href = value, target = "_blank", rel = "noopener noreferrer", value)
         },
-        minWidth = 60,
+        minWidth = 40,
         sortable = FALSE,
         filterable = FALSE
       )
@@ -99,11 +100,13 @@ tidy_tbl |>
       htmltools::div(
         style = "padding: 10px;",
         htmltools::tagList(
-          "Who added this resource: ",
+          "Date added: ",
+          tidy_tbl$date_added[index],
           htmltools::tags$br(),
+          "Added by: ",
           if_else(
             is.na(tidy_tbl$name[index]),
-            "not available",
+            "anonymous",
             as.character(tidy_tbl$name[index])
           )
         )

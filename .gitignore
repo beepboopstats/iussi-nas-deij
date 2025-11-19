@@ -53,3 +53,4 @@ rsconnect/
 /.quarto/
 assets/ssl/
 dev/
+.Renviron

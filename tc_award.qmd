@@ -1,5 +1,5 @@
 ---
-title: "Turner-Collins Recognition Program"
+title: "Turner-Collins Award"
 about:
   template: trestles
   id: about-block
@@ -33,20 +33,18 @@ if (status_code(res) == 200) {
 
 `r text`
 
-
-
 :::
 
 \
 \
 
-::: {.callout-note collapse=true}
+::: {.callout-note collapse=false}
 
 # Read the full call for nomination
 
 ```{r}
 
-doc_id <- "12QlqRaySvQKXPOO4JYMfXO0Gg5YRlLf0PkWB95ba5uw"
+doc_id <- Sys.getenv("tc_doc_id")
 url <- paste0("https://docs.google.com/document/d/", doc_id, "/export?format=txt")
 
 res <- GET(url)

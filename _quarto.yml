@@ -9,10 +9,12 @@ execute:
   
 website:
   title: "IUSSI-NAS DEIJ"
-  # google-analytics: "G-LXSX23EQ95"
+  google-analytics: "G-LXSX23EQ95"
   reader-mode: false
-  page-footer: made with ❤ by [BeepBoopStats, LLC](https://www.beepboopstats.com/)
+  page-footer: created with ❤ by [BeepBoopStats, LLC](https://www.beepboopstats.com/)
   favicon: /assets/img/favicons/android-chrome-192x192.png
+  repo-url: "https://github.com/beepboopstats/iussi-nas-deij"
+  repo-actions: ["issue"]
   # top nav
   navbar:
     pinned: true
@@ -41,9 +43,9 @@ format:
       light: 
         - pulse
         - assets/css/styles.scss
-      dark: 
-        - darkly
-        - assets/css/styles.scss
+      # dark: 
+      #   - darkly
+      #   - assets/css/styles.scss
     fontsize: 1.1em
     page-layout: full
     toc: true

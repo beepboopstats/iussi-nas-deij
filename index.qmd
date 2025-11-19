@@ -37,7 +37,7 @@ editor_options:
 library(httr)
 library(rvest)
 
-doc_id <- "12VfAXky7KvJLgTyE-A8G980H1IUZGOzJhBHMukiiZYg"
+doc_id <- Sys.getenv("index_doc_id")
 url <- paste0("https://docs.google.com/document/d/", doc_id, "/export?format=txt")
 
 res <- GET(url)

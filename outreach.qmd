@@ -20,7 +20,7 @@ IUSSI-NAS, but to reach non-members as well.
 For the initial phase of the program, we have identified three primary branches 
 that we are currently working on: 
 
-1. __[Turner-Collins Recognition Program](tc_award.qmd)__ 
+1. __[Turner-Collins Award](tc_award.qmd)__ 
 2. __[Professional Development Workshop Series](workshop.qmd)__, and
 3. __[Fundraising](fundraising.qmd)__ to create a *DEIJ Outreach Fund* that can 
 provide monetary support for current and future DEIJ initiatives of 
@@ -29,9 +29,33 @@ IUSSI-NAS members.
 
 ::: {.callout-tip collapse=true}
 
-### Outreach Program Committee Members
+### Meet the Outreach Program Committee Members
 
 ::: {.grid}
+
+:::{.g-col-12 .g-col-md-4}
+#### Amy Toth
+Professor
+
+* TC Award, Workshop, Fundraising 
+* [Email me](mailto:amytoth@iastate.edu)
+:::
+
+:::{.g-col-12 .g-col-md-4}
+#### Kaitlin Baudier
+Assistant Professor
+
+* TC Award, Workshop, Fundraising 
+* [Email me](mailto:Kaitlin.Baudier@usm.edu)
+:::
+
+:::{.g-col-12 .g-col-md-4}
+#### Erika Ibarra-Garibay
+Doctoral researcher
+
+* TC Award, Workshop, Fundraising 
+* [Email me](mailto:egaribay@iastate.edu)
+:::
 
 :::{.g-col-12 .g-col-md-4}
 #### Biplabendu [Billu] Das
@@ -46,7 +70,7 @@ Data Scientist/Engineer
 Professor
 
 * Workshop, Fundraising
-* [bob@example.com](mailto:bob@example.com)
+* [Email me](mailto:aimee.dunlap@umsl.edu)
 :::
 
 :::{.g-col-12 .g-col-md-4}
@@ -54,7 +78,7 @@ Professor
 Professor
 
 * TC Award, Fundraising
-* [carol@example.com](mailto:carol@example.com)
+* [Email me](mailto:terrymcglynn@gmail.com)
 :::
 
 :::{.g-col-12 .g-col-md-4}
@@ -62,7 +86,7 @@ Professor
 Postdoctoral Researcher 
 
 * Workshop
-* [david@example.com](mailto:david@example.com)
+* [Email me](mailto:benjamin.pyenson@utoronto.ca)
 :::
 
 :::{.g-col-12 .g-col-md-4}
@@ -70,7 +94,7 @@ Postdoctoral Researcher
 Professor
 
 * TC Award, Workshop, Fundraising 
-* [david@example.com](mailto:david@example.com)
+* [Email me](mailto:floria.uy@rochester.edu)
 :::
 
 :::{.g-col-12 .g-col-md-4}
@@ -78,7 +102,7 @@ Professor
 Professor
 
 * TC Award, Fundraising
-* [david@example.com](mailto:david@example.com)
+* [Email me](mailto:mjwe@sent.com)
 :::
 
 :::
