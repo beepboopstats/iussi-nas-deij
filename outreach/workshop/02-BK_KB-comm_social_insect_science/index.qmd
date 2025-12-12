@@ -1,21 +1,27 @@
 ---
-title: "[UPCOMING] Communicating Social Insect Science"
-categories: [Upcoming]
+title: "Communicating Social Insect Science"
+categories: [SciComm, Outreach]
 author: Barrett Klein, Kaitlin Baudier
 date: 2025-12-11
-image: "author.png"
+image: "author2.png"
 ---
 
 Tips and tools for sharing our love of social insects with the world.
 
-![](flyer.png){width=75% fig-align="center" .lightbox}
+![](flyer.png){width=25% fig-align="center" .lightbox}
 
 The IUSSI-NAS DEIJ Committee is excited to announce __our second workshop__.
 
 Topic:      __COMMUNICATING SOCIAL INSECT SCIENCE__ \
 Presenters: __DR. BARRETT KLEIN and DR. KAITLIN BAUDIER__ \
-Where:      __[Zoom link here](https://us02web.zoom.us/j/975501244)__ \
+Where:      __Hosted on Zoom__ \
 
 The workshop will be December 11, 2025 from 11-1pm central time, via Zoom. We will have presentations and lots of discussion. What better way to spend your lunch hour than with your social insect peeps talking about sharing our love of social insects with the world?!?!
 
-Flyer attached, please share widely. The presentation will be recorded.
+### Recording of workshop
+
+{{< video 
+    https://www.youtube.com/embed/EwrVd3noxNU?si=xLvW2lLgIyfHdV4x
+    width="560"
+    height="315"
+>}}
