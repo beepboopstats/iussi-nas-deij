@@ -16,22 +16,7 @@ editor_options:
 :::{.card-body}
 ![](../img/favicon.png){width=35% fig-align="center"}
 
-#### Amy Toth (Chair)
-<div class="card-subtitle mb-2 text-muted">
-Professor
-</div>
-_2022-present_ \
-<!-- [alice@example.com](mailto:alice@example.com) -->
-:::
-:::
-:::
-
-:::{.g-col-12 .g-col-md-4}
-:::{.card}
-:::{.card-body}
-![](../img/favicon.png){width=35% fig-align="center"}
-
-#### Kaitlin Baudier
+#### Kaitlin Baudier (Chair)
 <div class="card-subtitle mb-2 text-muted">
 Assistant Professor
 </div>
@@ -51,6 +36,21 @@ _2023-present_ \
 Doctoral researcher
 </div>
 _2024-present_ \
+<!-- [alice@example.com](mailto:alice@example.com) -->
+:::
+:::
+:::
+
+:::{.g-col-12 .g-col-md-4}
+:::{.card}
+:::{.card-body}
+![](../img/favicon.png){width=35% fig-align="center"}
+
+#### Claire Hemingway
+<div class="card-subtitle mb-2 text-muted">
+Assistant Professor
+</div>
+_2025-present_ \
 <!-- [alice@example.com](mailto:alice@example.com) -->
 :::
 :::
@@ -91,6 +91,21 @@ _Tenure: 2022-23_
 Data Scientist \
 </div>
 _Tenure: 2022-24_
+<!-- [alice@example.com](mailto:alice@example.com) -->
+:::
+:::
+:::
+
+:::{.g-col-12 .g-col-md-4}
+:::{.card}
+:::{.card-body}
+![](../img/favicon.png){width=35% fig-align="center"}
+
+#### Amy Toth
+<div class="card-subtitle mb-2 text-muted">
+Professor
+</div>
+_2022-25_ \
 <!-- [alice@example.com](mailto:alice@example.com) -->
 :::
 :::
