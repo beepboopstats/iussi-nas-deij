@@ -39,6 +39,8 @@ jobs:
 
       - name: Render site
         run: quarto render
+        env:
+          resources_url: ${{ vars.RESOURCES_URL }}
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
