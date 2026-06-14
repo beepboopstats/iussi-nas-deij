@@ -41,6 +41,8 @@ jobs:
         run: quarto render
         env:
           resources_url: ${{ vars.RESOURCES_URL }}
+          tc_doc_id: ${{ vars.TC_DOC_ID }}
+          index_doc_id: ${{ vars.INDEX_DOC_ID }}
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
