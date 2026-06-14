@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  post-render: R/fix_polyfill.R
 
 execute:
   # freeze: auto
