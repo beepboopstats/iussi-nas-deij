@@ -54,6 +54,7 @@ format:
     toc-location: left
     toc-expand: 1
     embed-resources: true
+    html-math-method: katex
     # new options
     toc_float: true
     code-overflow: wrap
