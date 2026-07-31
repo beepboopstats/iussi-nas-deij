@@ -32,6 +32,8 @@ website:
             file: workshop.qmd
           - text: "Fundraising"
             file: fundraising.qmd
+      # - text: "Have you met?"
+      #   file: about.qmd
       - text: "Resources"
         file: resources.qmd
       - text: "Meet the Committee"

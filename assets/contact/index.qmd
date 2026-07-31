@@ -18,7 +18,7 @@ editor_options:
 
 #### Kaitlin Baudier (Chair)
 <div class="card-subtitle mb-2 text-muted">
-Assistant Professor
+Associate Professor
 </div>
 _2023-present_ \
 <!-- [alice@example.com](mailto:alice@example.com) -->
