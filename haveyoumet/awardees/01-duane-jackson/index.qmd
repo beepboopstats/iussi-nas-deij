@@ -20,6 +20,13 @@ about:
 
 Dr. Jackson was a long-term IUSSI-NAS member and professor and chair of the Psychology Department at Morehouse College, named posthumously as an inaugural 2025 Turner-Collins Awardee. He built a research program focused on termite biology and improving equity in public exhibit design and college curricula. Dr. Jackson dedicated his lifetime to dismantling barriers to science careers through outreach in underserved communities of Atlanta — speaking at local public schools, boy scout meetings, and church groups. Through curatorial roles at the West Atlanta Watershed Alliance Center and Zoo Atlanta, he inspired multiple generations of children and college students to pursue careers in science.
 
+
+::: {style="text-align: center; max-width: 400px; margin: 0 auto;"}
+{{< video https://www.youtube.com/watch?v=BQ3hS3yXl6w aspect-ratio="9x16" >}}
+
+_Accepting on behalf of Dr Duane Jackson is his son Kari Jackson, MSc. in Entomology_
+:::
+
 ## Recommended Resources
 
 > Coming soon.
@@ -28,11 +35,6 @@ Dr. Jackson was a long-term IUSSI-NAS member and professor and chair of the Psyc
 <!-- - [Example Resource 2](https://example.com) -->
 
 :::
-
-::: {style="text-align: center; max-width: 400px; margin: 0 auto;"}
-{{< video https://www.youtube.com/watch?v=BQ3hS3yXl6w aspect-ratio="9x16" >}}
-:::
-
 
 ::: {.callout-note collapse=true}
 
