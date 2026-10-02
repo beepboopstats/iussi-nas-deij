@@ -7,7 +7,7 @@ about:
   id: about-block
   image-width: 15em
   image-shape: round
-  image: photo.png
+  image: bee.svg
   links:
     - icon: globe
       text: Lab website

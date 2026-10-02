@@ -102,6 +102,33 @@ iframe {
   }
 }
 
+// Grid card styling
+.quarto-grid-item.card {
+  border: 1px solid rgba($primary, 0.15);
+  border-radius: 0.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba($primary, 0.15);
+    border-color: $secondary;
+  }
+
+  .card-title {
+    color: $primary;
+    font-weight: 600;
+  }
+
+  .card-subtitle {
+    color: lighten($primary, 20%);
+    font-size: 0.9rem;
+  }
+
+  .card-img-top {
+    border-bottom: 2px solid $secondary;
+  }
+}
+
 // Listings
 @media (max-width: 900px) {
   .quarto-grid-item.card.h-100.card-left p.card-img-top {

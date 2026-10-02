@@ -10,7 +10,7 @@ about:
   image: photo.png
   links:
     - icon: globe
-      text: personal website
+      text: In memoriam from Animal Behavior Society
       href: https://example.com
 ---
 
