@@ -11,7 +11,7 @@ about:
   links:
     - icon: globe
       text: In memoriam from Animal Behavior Society
-      href: https://example.com
+      href: https://www.animalbehaviorsociety.org/NEWSLETTERS/70-2/memorial.php
 ---
 
 ::: {#about-block}
