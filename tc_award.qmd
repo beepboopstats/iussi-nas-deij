@@ -42,23 +42,6 @@ if (status_code(res) == 200) {
 
 # Read the full call for nomination
 
-```{r}
-
-doc_id <- Sys.getenv("tc_doc_id")
-url <- paste0("https://docs.google.com/document/d/", doc_id, "/export?format=txt")
-
-res <- GET(url)
-
-if (status_code(res) == 200) {
-  text <- content(res, as = "text", encoding = "UTF-8")
-  # cat(text)
-} else {
-  stop("Failed to fetch document. Status code: ", status_code(res))
-}
-
-```
-
-`r text`
-
+<iframe src="assets/files/outreach/tc_award_full.pdf" width="100%" height="800px"></iframe>
 
 :::
