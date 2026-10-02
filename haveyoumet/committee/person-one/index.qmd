@@ -1,0 +1,28 @@
+---
+title: "Jane Doe"
+subtitle: "Committee Member / University of Example"
+image: photo.png
+about:
+  template: trestles
+  id: about-block
+  image-width: 15em
+  image-shape: round
+  image: photo.png
+  links:
+    - icon: globe
+      text: personal website
+      href: https://example.com
+---
+
+::: {#about-block}
+
+## Have you met _Jane Doe_?
+
+Jane is a committee member working on social insect research. This is placeholder text — replace with a real bio.
+
+## Recommended Resources
+
+- [Example Resource 1](https://example.com)
+- [Example Resource 2](https://example.com)
+
+:::

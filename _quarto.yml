@@ -33,7 +33,7 @@ website:
           - text: "Fundraising"
             file: fundraising.qmd
       - text: "Have you met?"
-        file: about.qmd
+        file: haveyoumet.qmd
       - text: "Resources"
         file: resources.qmd
       - text: "Meet the Committee"

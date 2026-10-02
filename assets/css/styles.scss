@@ -79,6 +79,29 @@ div.quarto-about-trestles {
 }
 
 
+// Responsive iframes (PDF embeds, videos)
+iframe {
+  max-width: 100%;
+}
+
+@media (max-width: 767px) {
+  iframe[src$=".pdf"] {
+    height: 400px;
+  }
+}
+
+// Responsive video wrapper (for Quarto video shortcodes and manual embeds)
+.quarto-video, .quarto-figure {
+  max-width: 100%;
+}
+
+// Navbar mobile improvements
+@media (max-width: 991.98px) {
+  .navbar {
+    height: auto !important;
+  }
+}
+
 // Listings
 @media (max-width: 900px) {
   .quarto-grid-item.card.h-100.card-left p.card-img-top {

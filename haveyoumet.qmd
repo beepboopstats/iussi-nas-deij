@@ -1,0 +1,28 @@
+---
+title: "Have You Met?"
+listing:
+  # - id: committee
+  #   contents: haveyoumet/committee/*/index.qmd
+  #   type: grid
+  #   grid-columns: 3
+  #   image-height: 200px
+  #   fields: [image, title, subtitle]
+  #   sort: "title asc"
+  - id: awardees
+    contents: haveyoumet/awardees/*/index.qmd
+    type: grid
+    grid-columns: 3
+    image-height: 200px
+    fields: [image, title, subtitle]
+    sort: "title asc"
+---
+
+<!-- ## Committee Members -->
+
+<!-- ::: {#committee} -->
+<!-- ::: -->
+
+## Our Turner-Collins Awardees
+
+::: {#awardees}
+:::

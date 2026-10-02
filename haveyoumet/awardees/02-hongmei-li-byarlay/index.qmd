@@ -1,0 +1,38 @@
+---
+title: "Hongmei Li-Byarlay"
+subtitle: "2025 Awardee"
+image: photo.png
+about:
+  template: trestles
+  id: about-block
+  image-width: 15em
+  image-shape: round
+  image: photo.png
+  links:
+    - icon: globe
+      text: Lab website
+      href: https://sites.google.com/view/libyarlaybee?pli=1&authuser=0
+---
+
+::: {#about-block}
+
+## Have you met _Hongmei Li-Byarlay_?
+
+Dr. Li-Byarlay is a research associate professor at Central State University studying behavioral genetics and ecology of honeybees and native North American bees. She teaches beekeeping and scientific literacy through collaborations with local schools, the Boonshoft Museum, and the Oakwood Historical Society. At a national level, she helped create the Entomological Society of America's Alate Award supporting student researchers at HBCUs and MSIs, and co-founded INSECT Net, a cross-institutional collaboration between Penn State and three Midwest HBCUs. She has also represented her institution at the state legislature and on the White House Initiative HBCU PARTNERS Act.
+
+## Recommended Resources
+
+> Coming soon.
+
+<!-- - [Example Resource 1](https://example.com) -->
+<!-- - [Example Resource 2](https://example.com) -->
+
+:::
+
+::: {.callout-tip collapse=true}
+
+# Expand to read the full award
+
+<iframe src="award.pdf" width="100%" height="800px"></iframe>
+
+:::
